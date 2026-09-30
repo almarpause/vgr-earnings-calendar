@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Very Good Retail//Financial Release Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:VGR Financial Release Calendar
+BEGIN:VEVENT
+UID:nike-q1-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:NIKE Q1-27
+DESCRIPTION:Nike\, Q1 FY2027\, after US close (13:15 PT). Date confirmed by the company.
+URL:https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2026/NIKE-Inc--Announces-First-Quarter-Fiscal-2027-Earnings-and-Conference-Call/default.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:titan-company-q2-fy2027-business-update@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:TITAN Q2-27 (est.)
+DESCRIPTION:Titan Company\, Q2 FY2027 business update\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:aritzia-q2-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:ARITZIA Q2-27 (est.)
+DESCRIPTION:Aritzia\, Q2 FY2027\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:fast-retailing-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:FAST RETAILING FY26
+DESCRIPTION:Fast Retailing\, FY2026\, 15:00 JST. Date confirmed by the company.
+URL:https://www.fastretailing.com/eng/ir/calendar/index.html
+END:VEVENT
+BEGIN:VEVENT
+UID:levi-strauss-q3-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:LEVI STRAUSS Q3-26 (est.)
+DESCRIPTION:Levi Strauss\, Q3 FY2026\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:lvmh-q3-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:LVMH Q3-26 (est.)
+DESCRIPTION:LVMH\, Q3 2026 revenue\, after market (~17:45 CET). Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:brunello-cucinelli-9m-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:BRUNELLO CUCINELLI 9M-26
+DESCRIPTION:Brunello Cucinelli\, 9M 2026 revenue\, after market. Date confirmed by the company.
+URL:https://investor.brunellocucinelli.com/en/financials/calendar/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:chow-tai-fook-q2-fy2027-operational-update@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:CHOW TAI FOOK Q2-27 (est.)
+DESCRIPTION:Chow Tai Fook\, Q2 FY2027 operational update\, after HK market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:essilorluxottica-q3-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:ESSILORLUXOTTICA Q3-26
+DESCRIPTION:EssilorLuxottica\, Q3 2026 revenue\, after market (~18:00 CET). Date confirmed by the company.
+URL:https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8
+END:VEVENT
+BEGIN:VEVENT
+UID:kering-q3-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:KERING Q3-26 (est.)
+DESCRIPTION:Kering\, Q3 2026 revenue\, after market (~17:45 CET). Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:moncler-9m-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:MONCLER 9M-26
+DESCRIPTION:Moncler\, 9M 2026\, after market. Date confirmed by the company.
+URL:https://www.monclergroup.com/v3/assets/blt61bda6b71f29a239/blt519c82c609d45b6a/6925d63faa2238f3b89e2321/moncler_eng_financial-calendar-2026.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:deckers-q2-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:DECKERS Q2-27 (est.)
+DESCRIPTION:Deckers\, Q2 FY2027\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:hermes-q3-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:HERMÈS Q3-26
+DESCRIPTION:Hermès\, Q3 2026 revenue\, 08:00 CEST. Date confirmed by the company.
+URL:https://finance.hermes.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:prada-group-9m-2026-revenue@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:PRADA 9M-26
+DESCRIPTION:Prada Group\, 9M 2026 revenue\, after HKEX close. Date confirmed by the company.
+URL:https://www.pradagroup.com/en/investors/investor-relations.html
+END:VEVENT
+BEGIN:VEVENT
+UID:anta-sports-q3-2026-operational-update@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:ANTA SPORTS Q3-26 (est.)
+DESCRIPTION:Anta Sports\, Q3 2026 operational update\, after HK market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:vf-corp-q2-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:VF CORP Q2-27 (est.)
+DESCRIPTION:VF Corp\, Q2 FY2027\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:adidas-9m-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:ADIDAS 9M-26
+DESCRIPTION:Adidas\, 9M 2026. Date confirmed by the company.
+URL:https://www.adidas-group.com/en/investors/financial-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:crocs-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:CROCS Q3-26 (est.)
+DESCRIPTION:Crocs\, Q3 2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:gildan-activewear-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:GILDAN Q3-26 (est.)
+DESCRIPTION:Gildan Activewear\, Q3 2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:abf-primark-fy2026-annual-results@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ABF / PRIMARK FY26
+DESCRIPTION:ABF / Primark\, FY2026 annual results\, 07:00 UK. Date confirmed by the company.
+URL:https://www.abf.co.uk/investors/financial-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:titan-company-q2-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:TITAN Q2-27 (est.)
+DESCRIPTION:Titan Company\, Q2 FY2027\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:zalando-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ZALANDO Q3-26
+DESCRIPTION:Zalando\, Q3 2026. Date confirmed by the company.
+URL:https://corporate.zalando.com/en/investor-relations/financial-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:pandora-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:PANDORA Q3-26
+DESCRIPTION:Pandora\, Q3 2026. Date confirmed by the company.
+URL:https://pandoragroup.com/investor/financial-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:next-plc-q3-fy2026-27-trading-statement@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:NEXT Q3-26/27
+DESCRIPTION:Next plc\, Q3 FY2026/27 trading statement\, 07:00 UK. Date confirmed by the company.
+URL:https://www.nextplc.co.uk/investors/financial-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ralph-lauren-q2-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:RALPH LAUREN Q2-27 (est.)
+DESCRIPTION:Ralph Lauren\, Q2 FY2027\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:tapestry-q1-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:TAPESTRY Q1-27 (est.)
+DESCRIPTION:Tapestry\, Q1 FY2027\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:on-holding-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ON HOLDING Q3-26 (est.)
+DESCRIPTION:On Holding\, Q3 2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:burberry-h1-fy2026-27@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:BURBERRY H1-26/27
+DESCRIPTION:Burberry\, H1 FY2026/27\, 07:00 UK. Date confirmed by the company.
+URL:https://www.burberryplc.com/investors/financial-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:asics-q3-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:ASICS Q3-26
+DESCRIPTION:ASICS\, Q3 FY2026. Date confirmed by the company.
+URL:https://corp.asics.com/en/investor_relations
+END:VEVENT
+BEGIN:VEVENT
+UID:richemont-h1-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:RICHEMONT H1-27
+DESCRIPTION:Richemont\, H1 FY2027\, 07:00 CET. Date confirmed by the company.
+URL:https://www.richemont.com/investors/corporate-calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:amer-sports-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:AMER SPORTS Q3-26 (est.)
+DESCRIPTION:Amer Sports\, Q3 2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:gap-q3-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:GAP Q3-26 (est.)
+DESCRIPTION:GAP\, Q3 FY2026\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:jd-sports-fashion-q3-fy2026-27-trading-statement@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:JD SPORTS Q3-26/27
+DESCRIPTION:JD Sports Fashion\, Q3 FY2026/27 trading statement\, 07:00 UK. Date confirmed by the company.
+URL:https://www.jdplc.com/q2-2026-27-trading-statement/
+END:VEVENT
+BEGIN:VEVENT
+UID:chow-tai-fook-h1-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:CHOW TAI FOOK H1-27 (est.)
+DESCRIPTION:Chow Tai Fook\, H1 FY2027\, midday HK. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:urban-outfitters-q3-fy2027@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:URBAN OUTFITTERS Q3-27 (est.)
+DESCRIPTION:Urban Outfitters\, Q3 FY2027\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:inditex-q3-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:INDITEX Q3-26 (est.)
+DESCRIPTION:Inditex\, Q3 FY2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:lpp-sa-q3-2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:LPP Q3-26
+DESCRIPTION:LPP SA\, Q3 2026. Date confirmed by the company.
+URL:https://www.lpp.com/en/reports/cr-01-2026-dates-of-publication-of-financial-reports-in-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:lululemon-q3-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:LULULEMON Q3-26 (est.)
+DESCRIPTION:Lululemon\, Q3 FY2026\, after market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:birkenstock-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:BIRKENSTOCK FY26 (est.)
+DESCRIPTION:Birkenstock\, FY2026\, before market. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:swatch-group-fy2026@vgr-earnings-calendar
+DTSTAMP:20260929T135628Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:SWATCH FY26 (est.)
+DESCRIPTION:Swatch Group\, FY2026. Estimated date\, not yet confirmed by the company.
+URL:https://verygoodretail.ai/intelligence/earnings-calendar
+END:VEVENT
+END:VCALENDAR
