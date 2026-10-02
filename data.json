@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T13:56:28+02:00",
+ "updated": "2026-10-02T08:37:37+02:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -125,7 +125,7 @@
    "date": "2026-10-01",
    "time": "after US close (13:15 PT)",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2026/NIKE-Inc--Announces-First-Quarter-Fiscal-2027-Earnings-and-Conference-Call/default.aspx",
    "brief_url": null
   },
