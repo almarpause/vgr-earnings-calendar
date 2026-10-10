@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T09:30:27+02:00",
+ "updated": "2026-10-10T07:11:10+02:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -143,7 +143,7 @@
    "confidence": "estimated",
    "reported": true,
    "source": null,
-   "brief_url": null
+   "brief_url": "https://verygoodretail.ai/intelligence/archive/titan-company-q2-fy2027-business-update"
   },
   {
    "id": "aritzia-q2-fy2027",
@@ -173,7 +173,7 @@
    "date": "2026-10-08",
    "time": "15:00 JST",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.fastretailing.com/eng/ir/calendar/index.html",
    "brief_url": null
   },
