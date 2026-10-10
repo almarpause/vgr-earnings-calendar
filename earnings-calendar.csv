@@ -8,7 +8,7 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-09-28,Shein,H1-26,H1 2026 interim report,20:51 HKT,confirmed,True,0625,HKEX,https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0916/2026091601305.pdf,https://verygoodretail.ai/intelligence/archive/shein-h1-2026,shein-h1-2026
 2026-10-01,Nike,Q1-27,Q1 FY2027,after US close (13:15 PT),confirmed,True,NKE,NYSE,https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2026/NIKE-Inc--Announces-First-Quarter-Fiscal-2027-Earnings-and-Conference-Call/default.aspx,https://verygoodretail.ai/intelligence/archive/nike-q1-fy2027,nike-q1-fy2027
 2026-10-07,Titan Company,Q2-27,Q2 FY2027 business update,after market,estimated,True,TITAN,NSE,,https://verygoodretail.ai/intelligence/archive/titan-company-q2-fy2027-business-update,titan-company-q2-fy2027-business-update
-2026-10-08,Aritzia,Q2-27,Q2 FY2027,after market,estimated,False,ATZ,TSX,,,aritzia-q2-fy2027
+2026-10-08,Aritzia,Q2-27,Q2 FY2027,after market,estimated,True,ATZ,TSX,,,aritzia-q2-fy2027
 2026-10-08,Fast Retailing,FY26,FY2026,15:00 JST,confirmed,True,9983,TSE,https://www.fastretailing.com/eng/ir/calendar/index.html,,fast-retailing-fy2026
 2026-10-08,Levi Strauss,Q3-26,Q3 FY2026,after market,estimated,False,LEVI,NYSE,,,levi-strauss-q3-fy2026
 2026-10-13,LVMH,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,False,MC,Euronext Paris,,,lvmh-q3-2026-revenue
