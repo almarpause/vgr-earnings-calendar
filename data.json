@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:29:29+02:00",
+ "updated": "2026-10-25T18:54:07+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -317,7 +317,7 @@
    "date": "2026-10-22",
    "time": "08:00 CEST",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://finance.hermes.com/en/calendar/",
    "brief_url": null
   },
