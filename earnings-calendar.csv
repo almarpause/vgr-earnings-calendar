@@ -21,7 +21,7 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-10-22,Hermès,Q3-26,Q3 2026 revenue,08:00 CEST,confirmed,True,RMS,Euronext Paris,https://finance.hermes.com/en/calendar/,,hermes-q3-2026-revenue
 2026-10-22,Prada Group,9M-26,9M 2026 revenue,after HKEX close,confirmed,True,1913,HKEX,https://www.pradagroup.com/en/investors/investor-relations.html,,prada-group-9m-2026-revenue
 2026-10-27,Anta Sports,Q3-26,Q3 2026 operational update,after HK market,estimated,False,2020,HKEX,,,anta-sports-q3-2026-operational-update
-2026-10-27,VF Corp,Q2-27,Q2 FY2027,before market,estimated,False,VFC,NYSE,,,vf-corp-q2-fy2027
+2026-10-28,VF Corp,Q2-27,Q2 FY2027,"06:00 ET, before market; call 08:00 ET",confirmed,False,VFC,NYSE,https://www.vfc.com/news/press-release/1871/vf-corporation-announces-second-quarter-fiscal-2027,,vf-corp-q2-fy2027
 2026-10-29,Adidas,9M-26,9M 2026,,confirmed,False,ADS,XETRA,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-9m-2026
 2026-10-29,Crocs,Q3-26,Q3 2026,before market,estimated,False,CROX,NASDAQ,,,crocs-q3-2026
 2026-10-29,Gildan Activewear,Q3-26,Q3 2026,before market,estimated,False,GIL,NYSE/TSX,,,gildan-activewear-q3-2026

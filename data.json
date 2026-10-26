@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:56:02+01:00",
+ "updated": "2026-10-26T10:53:55+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -362,11 +362,11 @@
    "period": "Q2 FY2027",
    "label": "Q2-27",
    "detail": "",
-   "date": "2026-10-27",
-   "time": "before market",
-   "confidence": "estimated",
+   "date": "2026-10-28",
+   "time": "06:00 ET, before market; call 08:00 ET",
+   "confidence": "confirmed",
    "reported": false,
-   "source": null,
+   "source": "https://www.vfc.com/news/press-release/1871/vf-corporation-announces-second-quarter-fiscal-2027",
    "brief_url": null
   },
   {
