@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:57:33+01:00",
+ "updated": "2026-10-26T11:00:25+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -221,7 +221,7 @@
    "date": "2026-10-15",
    "time": "after market",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://investor.brunellocucinelli.com/en/financials/calendar/2026",
    "brief_url": null
   },
