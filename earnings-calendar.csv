@@ -12,15 +12,15 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-10-08,Fast Retailing,FY26,FY2026,15:00 JST,confirmed,True,9983,TSE,https://www.fastretailing.com/eng/ir/calendar/index.html,https://verygoodretail.ai/intelligence/archive/fast-retailing-fy2026,fast-retailing-fy2026
 2026-10-08,Levi Strauss,Q3-26,Q3 FY2026,after market,estimated,True,LEVI,NYSE,,https://verygoodretail.ai/intelligence/archive/levi-strauss-q3-fy2026,levi-strauss-q3-fy2026
 2026-10-13,LVMH,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,True,MC,Euronext Paris,,https://verygoodretail.ai/intelligence/archive/lvmh-q3-2026-revenue,lvmh-q3-2026-revenue
-2026-10-15,Brunello Cucinelli,9M-26,9M 2026 revenue,after market,confirmed,True,BC,Borsa Italiana,https://investor.brunellocucinelli.com/en/financials/calendar/2026,,brunello-cucinelli-9m-2026-revenue
-2026-10-16,Chow Tai Fook,Q2-27,Q2 FY2027 operational update,after HK market,estimated,True,1929,HKEX,,,chow-tai-fook-q2-fy2027-operational-update
-2026-10-20,EssilorLuxottica,Q3-26,Q3 2026 revenue,after market (~18:00 CET),confirmed,True,EL,Euronext Paris,https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8,,essilorluxottica-q3-2026-revenue
-2026-10-21,Kering,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,True,KER,Euronext Paris,,,kering-q3-2026-revenue
-2026-10-21,Moncler,9M-26,9M 2026,after market,confirmed,True,MONC,Borsa Italiana,https://www.monclergroup.com/v3/assets/blt61bda6b71f29a239/blt519c82c609d45b6a/6925d63faa2238f3b89e2321/moncler_eng_financial-calendar-2026.pdf,,moncler-9m-2026
-2026-10-22,Deckers,Q2-27,Q2 FY2027,after market,estimated,True,DECK,NYSE,,,deckers-q2-fy2027
-2026-10-22,Hermès,Q3-26,Q3 2026 revenue,08:00 CEST,confirmed,True,RMS,Euronext Paris,https://finance.hermes.com/en/calendar/,,hermes-q3-2026-revenue
-2026-10-22,Prada Group,9M-26,9M 2026 revenue,after HKEX close,confirmed,True,1913,HKEX,https://www.pradagroup.com/en/investors/investor-relations.html,,prada-group-9m-2026-revenue
-2026-10-27,Anta Sports,Q3-26,Q3 2026 operational update,after HK market,estimated,True,2020,HKEX,,,anta-sports-q3-2026-operational-update
+2026-10-15,Brunello Cucinelli,9M-26,9M 2026 revenue,after market,confirmed,True,BC,Borsa Italiana,https://investor.brunellocucinelli.com/en/financials/calendar/2026,https://verygoodretail.ai/intelligence/archive/brunello-cucinelli-9m-2026-revenue,brunello-cucinelli-9m-2026-revenue
+2026-10-16,Chow Tai Fook,Q2-27,Q2 FY2027 operational update,after HK market,estimated,True,1929,HKEX,,https://verygoodretail.ai/intelligence/archive/chow-tai-fook-q2-fy2027-operational-update,chow-tai-fook-q2-fy2027-operational-update
+2026-10-20,EssilorLuxottica,Q3-26,Q3 2026 revenue,after market (~18:00 CET),confirmed,True,EL,Euronext Paris,https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8,https://verygoodretail.ai/intelligence/archive/essilorluxottica-q3-2026-revenue,essilorluxottica-q3-2026-revenue
+2026-10-21,Kering,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,True,KER,Euronext Paris,,https://verygoodretail.ai/intelligence/archive/kering-q3-2026-revenue,kering-q3-2026-revenue
+2026-10-21,Moncler,9M-26,9M 2026,after market,confirmed,True,MONC,Borsa Italiana,https://www.monclergroup.com/v3/assets/blt61bda6b71f29a239/blt519c82c609d45b6a/6925d63faa2238f3b89e2321/moncler_eng_financial-calendar-2026.pdf,https://verygoodretail.ai/intelligence/archive/moncler-9m-2026,moncler-9m-2026
+2026-10-22,Deckers,Q2-27,Q2 FY2027,after market,estimated,True,DECK,NYSE,,https://verygoodretail.ai/intelligence/archive/deckers-q2-fy2027,deckers-q2-fy2027
+2026-10-22,Hermès,Q3-26,Q3 2026 revenue,08:00 CEST,confirmed,True,RMS,Euronext Paris,https://finance.hermes.com/en/calendar/,https://verygoodretail.ai/intelligence/archive/hermes-q3-2026-revenue,hermes-q3-2026-revenue
+2026-10-22,Prada Group,9M-26,9M 2026 revenue,after HKEX close,confirmed,True,1913,HKEX,https://www.pradagroup.com/en/investors/investor-relations.html,https://verygoodretail.ai/intelligence/archive/prada-group-9m-2026-revenue,prada-group-9m-2026-revenue
+2026-10-27,Anta Sports,Q3-26,Q3 2026 operational update,after HK market,estimated,True,2020,HKEX,,https://verygoodretail.ai/intelligence/archive/anta-sports-q3-2026-operational-update,anta-sports-q3-2026-operational-update
 2026-10-28,VF Corp,Q2-27,Q2 FY2027,"06:00 ET, before market; call 08:00 ET",confirmed,False,VFC,NYSE,https://www.vfc.com/news/press-release/1871/vf-corporation-announces-second-quarter-fiscal-2027,,vf-corp-q2-fy2027
 2026-10-29,Adidas,9M-26,9M 2026,,confirmed,False,ADS,XETRA,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-9m-2026
 2026-10-29,Crocs,Q3-26,Q3 2026,before market,estimated,False,CROX,NASDAQ,,,crocs-q3-2026
