@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:04:25+01:00",
+ "updated": "2026-10-26T11:04:45+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -237,7 +237,7 @@
    "date": "2026-10-16",
    "time": "after HK market",
    "confidence": "estimated",
-   "reported": false,
+   "reported": true,
    "source": null,
    "brief_url": null
   },
