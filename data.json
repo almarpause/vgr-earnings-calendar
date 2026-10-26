@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:04:15+01:00",
+ "updated": "2026-10-26T11:04:25+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -285,7 +285,7 @@
    "date": "2026-10-21",
    "time": "after market",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.monclergroup.com/v3/assets/blt61bda6b71f29a239/blt519c82c609d45b6a/6925d63faa2238f3b89e2321/moncler_eng_financial-calendar-2026.pdf",
    "brief_url": null
   },
