@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:00:25+01:00",
+ "updated": "2026-10-26T11:04:15+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -253,7 +253,7 @@
    "date": "2026-10-20",
    "time": "after market (~18:00 CET)",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8",
    "brief_url": null
   },

@@ -14,7 +14,7 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-10-13,LVMH,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,True,MC,Euronext Paris,,https://verygoodretail.ai/intelligence/archive/lvmh-q3-2026-revenue,lvmh-q3-2026-revenue
 2026-10-15,Brunello Cucinelli,9M-26,9M 2026 revenue,after market,confirmed,True,BC,Borsa Italiana,https://investor.brunellocucinelli.com/en/financials/calendar/2026,,brunello-cucinelli-9m-2026-revenue
 2026-10-16,Chow Tai Fook,Q2-27,Q2 FY2027 operational update,after HK market,estimated,False,1929,HKEX,,,chow-tai-fook-q2-fy2027-operational-update
-2026-10-20,EssilorLuxottica,Q3-26,Q3 2026 revenue,after market (~18:00 CET),confirmed,False,EL,Euronext Paris,https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8,,essilorluxottica-q3-2026-revenue
+2026-10-20,EssilorLuxottica,Q3-26,Q3 2026 revenue,after market (~18:00 CET),confirmed,True,EL,Euronext Paris,https://ml-eu.globenewswire.com/Resource/Download/6e24c0f8-175d-4eb7-97f0-637cfd94c0d8,,essilorluxottica-q3-2026-revenue
 2026-10-21,Kering,Q3-26,Q3 2026 revenue,after market (~17:45 CET),estimated,False,KER,Euronext Paris,,,kering-q3-2026-revenue
 2026-10-21,Moncler,9M-26,9M 2026,after market,confirmed,False,MONC,Borsa Italiana,https://www.monclergroup.com/v3/assets/blt61bda6b71f29a239/blt519c82c609d45b6a/6925d63faa2238f3b89e2321/moncler_eng_financial-calendar-2026.pdf,,moncler-9m-2026
 2026-10-22,Deckers,Q2-27,Q2 FY2027,after market,estimated,True,DECK,NYSE,,,deckers-q2-fy2027
