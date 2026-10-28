@@ -1,8 +1,28 @@
 # VGR Financial Release Calendar
 
-Expected results, revenue releases and trading updates for the companies in the VGR 40:
-the current month and the following two. Embedded on verygoodretail.ai at
+Expected results, revenue releases and trading updates for the companies FPR tracks.
+The page shows the current month and the following two. Embedded on verygoodretail.ai at
 `/intelligence/earnings-calendar`.
+
+## Which companies are covered
+
+`build.py` publishes an event from `_calendar.json` when either:
+
+* the company is listed in FPR's `_roster.yaml` (one folder up, not in this repo), or
+* the event has already been reported (`status` is `detected`), even if the company is
+  off the roster.
+
+An event for an off-roster company that has not reported is left out with a warning.
+
+So coverage follows the FPR roster, not the VGR 40 constituent list. In the build of
+26 Oct 2026 (47 events, 40 companies, 9 Sep 2026 to 28 Jan 2027):
+
+* ABF / Primark is included. It is not a VGR 40 constituent.
+* Shein is included. In the VGR 40 it is a staged addition, not yet a member.
+* Christian Dior SE and Abercrombie & Fitch are VGR 40 constituents with no events.
+
+> **To confirm (Pau):** should the FPR roster match the VGR 40? The page text written by
+> `build.py` still says "the companies in the VGR 40".
 
 ## How it updates
 
@@ -21,6 +41,11 @@ the next month on the 1st without a rebuild.
 
 ## What is published
 
+`data.json` and `earnings-calendar.csv` hold every event in the source, past and future.
+The three-month window is applied only on the page.
+
+### `data.json` (`events` array, plus `updated`)
+
 | field | meaning |
 |---|---|
 | `id` | `<company>-<period>` slug, equal to the brief slug on the site |
@@ -37,6 +62,15 @@ the next month on the 1st without a rebuild.
 
 Internal fields (`notes`, `eventId`, `checked`, `detectedAt`, `folder`, `tier`, `status`)
 are not published.
+
+### `earnings-calendar.csv`
+
+Header, in this order:
+
+    date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_url,id
+
+Same meaning as in `data.json`. The CSV has no `name` or `detail` column. Empty cells mean
+no value.
 
 ## Validation (`--check`)
 
