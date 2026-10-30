@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:42:27+01:00",
+ "updated": "2026-10-30T16:50:22+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -735,6 +735,22 @@
    "confidence": "estimated",
    "reported": false,
    "source": null,
+   "brief_url": null
+  },
+  {
+   "id": "h-m-fy2026",
+   "company": "H&M",
+   "name": "H&M",
+   "ticker": "HM-B",
+   "exchange": null,
+   "period": "FY2026",
+   "label": "FY26",
+   "detail": "",
+   "date": "2027-01-28",
+   "time": null,
+   "confidence": "confirmed",
+   "reported": false,
+   "source": "https://hmgroup.com/investors/financial-calendar/",
    "brief_url": null
   },
   {

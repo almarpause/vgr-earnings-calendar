@@ -45,4 +45,5 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-12-03,LPP SA,Q3-26,Q3 2026,,confirmed,False,LPP,,https://www.lpp.com/en/reports/cr-01-2026-dates-of-publication-of-financial-reports-in-2026/,,lpp-sa-q3-2026
 2026-12-10,Lululemon,Q3-26,Q3 FY2026,after market,estimated,False,LULU,NASDAQ,,,lululemon-q3-fy2026
 2026-12-17,Birkenstock,FY26,FY2026,before market,estimated,False,BIRK,NYSE,,,birkenstock-fy2026
+2027-01-28,H&M,FY26,FY2026,,confirmed,False,HM-B,,https://hmgroup.com/investors/financial-calendar/,,h-m-fy2026
 2027-01-28,Swatch Group,FY26,FY2026,,estimated,False,UHR,SIX,,,swatch-group-fy2026
