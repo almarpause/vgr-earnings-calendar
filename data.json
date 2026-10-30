@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:51:17+01:00",
+ "updated": "2026-10-30T15:52:03+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -381,7 +381,7 @@
    "date": "2026-10-29",
    "time": null,
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.adidas-group.com/en/investors/financial-calendar/",
    "brief_url": null
   },
