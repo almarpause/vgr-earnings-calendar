@@ -24,11 +24,11 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-10-28,VF Corp,Q2-27,Q2 FY2027,"06:00 ET, before market; call 08:00 ET",confirmed,True,VFC,NYSE,https://www.vfc.com/news/press-release/1871/vf-corporation-announces-second-quarter-fiscal-2027,https://verygoodretail.ai/intelligence/archive/vf-corp-q2-fy2027,vf-corp-q2-fy2027
 2026-10-29,Adidas,9M-26,9M 2026,,confirmed,True,ADS,XETRA,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-9m-2026
 2026-10-29,Crocs,Q3-26,Q3 2026,before market,estimated,True,CROX,NASDAQ,,,crocs-q3-2026
-2026-10-29,Gildan Activewear,Q3-26,Q3 2026,before market,estimated,False,GIL,NYSE/TSX,,,gildan-activewear-q3-2026
 2026-11-03,ABF / Primark,FY26,FY2026 annual results,07:00 UK,confirmed,False,ABF,LSE,https://www.abf.co.uk/investors/financial-calendar,,abf-primark-fy2026-annual-results
 2026-11-03,Titan Company,Q2-27,Q2 FY2027,after market,estimated,False,TITAN,NSE,,,titan-company-q2-fy2027
 2026-11-03,Zalando,Q3-26,Q3 2026,,confirmed,False,ZAL,XETRA,https://corporate.zalando.com/en/investor-relations/financial-calendar,,zalando-q3-2026
 2026-11-04,Pandora,Q3-26,Q3 2026,,confirmed,False,PNDORA,Nasdaq Copenhagen,https://pandoragroup.com/investor/financial-calendar,,pandora-q3-2026
+2026-11-05,Gildan Activewear,Q3-26,Q3 2026,before market,confirmed,False,GIL,NYSE/TSX,https://gildancorp.com/en/investors/events-and-presentations/,,gildan-activewear-q3-2026
 2026-11-05,Next plc,Q3-26/27,Q3 FY2026/27 trading statement,07:00 UK,confirmed,False,NXT,LSE,https://www.nextplc.co.uk/investors/financial-calendar,,next-plc-q3-fy2026-27-trading-statement
 2026-11-05,Ralph Lauren,Q2-27,Q2 FY2027,before market,estimated,False,RL,NYSE,,,ralph-lauren-q2-fy2027
 2026-11-05,Tapestry,Q1-27,Q1 FY2027,before market,estimated,False,TPR,NYSE,,,tapestry-q1-fy2027

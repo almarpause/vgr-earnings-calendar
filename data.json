@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:52:03+01:00",
+ "updated": "2026-10-30T16:42:27+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -402,22 +402,6 @@
    "brief_url": null
   },
   {
-   "id": "gildan-activewear-q3-2026",
-   "company": "Gildan Activewear",
-   "name": "GILDAN",
-   "ticker": "GIL",
-   "exchange": "NYSE/TSX",
-   "period": "Q3 2026",
-   "label": "Q3-26",
-   "detail": "",
-   "date": "2026-10-29",
-   "time": "before market",
-   "confidence": "estimated",
-   "reported": false,
-   "source": null,
-   "brief_url": null
-  },
-  {
    "id": "abf-primark-fy2026-annual-results",
    "company": "ABF / Primark",
    "name": "ABF / PRIMARK",
@@ -479,6 +463,22 @@
    "confidence": "confirmed",
    "reported": false,
    "source": "https://pandoragroup.com/investor/financial-calendar",
+   "brief_url": null
+  },
+  {
+   "id": "gildan-activewear-q3-2026",
+   "company": "Gildan Activewear",
+   "name": "GILDAN",
+   "ticker": "GIL",
+   "exchange": "NYSE/TSX",
+   "period": "Q3 2026",
+   "label": "Q3-26",
+   "detail": "",
+   "date": "2026-11-05",
+   "time": "before market",
+   "confidence": "confirmed",
+   "reported": false,
+   "source": "https://gildancorp.com/en/investors/events-and-presentations/",
    "brief_url": null
   },
   {
