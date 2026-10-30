@@ -48,16 +48,25 @@ def main():
         log("built; no git repository here, nothing published")
         return 0
     run("git", "add", "--", *FILES)
-    if run("git", "diff", "--cached", "--quiet").returncode == 0:
+    if run("git", "diff", "--cached", "--quiet").returncode != 0:
+        c = run("git", "commit", "-m", f"Calendar update {datetime.date.today().isoformat()}")
+        if c.returncode != 0:
+            log("COMMIT FAILED: " + (c.stderr or c.stdout).strip()[-300:])
+            return 1
+    elif not run("git", "log", "--oneline", "origin/main..HEAD").stdout.strip():
         log("built; no change")
         return 0
-    c = run("git", "commit", "-m", f"Calendar update {datetime.date.today().isoformat()}")
-    if c.returncode != 0:
-        log("COMMIT FAILED: " + (c.stderr or c.stdout).strip()[-300:])
-        return 1
+    # reaching here means a new commit, or commits an earlier failed push left behind
     if "--no-push" in sys.argv or not run("git", "remote").stdout.strip():
         log("committed; not pushed (no remote or --no-push)")
         return 0
+    # Other sessions push docs to this repo; without this, every later push is rejected (Oct 2026).
+    # Built files are regenerated on each run, so a rebase that cannot apply is aborted, not forced.
+    r = run("git", "pull", "--rebase", "--autostash", "origin", "main", timeout=120)
+    if r.returncode != 0:
+        run("git", "rebase", "--abort")
+        log("REBASE FAILED (commit kept, next run retries): " + (r.stderr or r.stdout).strip()[-300:])
+        return 1
     p = run("git", "push", "origin", "HEAD", timeout=120)
     if p.returncode != 0:
         log("PUSH FAILED (commit kept, next run pushes it): " + p.stderr.strip()[-300:])
