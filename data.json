@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:39:36+01:00",
+ "updated": "2026-11-07T08:40:22+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -477,7 +477,7 @@
    "date": "2026-11-05",
    "time": "before market",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://gildancorp.com/en/investors/events-and-presentations/",
    "brief_url": null
   },
