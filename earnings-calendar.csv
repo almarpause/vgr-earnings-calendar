@@ -30,7 +30,7 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-11-04,Pandora,Q3-26,Q3 2026,,confirmed,False,PNDORA,Nasdaq Copenhagen,https://pandoragroup.com/investor/financial-calendar,,pandora-q3-2026
 2026-11-05,Gildan Activewear,Q3-26,Q3 2026,before market,confirmed,False,GIL,NYSE/TSX,https://gildancorp.com/en/investors/events-and-presentations/,,gildan-activewear-q3-2026
 2026-11-05,Next plc,Q3-26/27,Q3 FY2026/27 trading statement,07:00 UK,confirmed,False,NXT,LSE,https://www.nextplc.co.uk/investors/financial-calendar,,next-plc-q3-fy2026-27-trading-statement
-2026-11-05,Ralph Lauren,Q2-27,Q2 FY2027,before market,estimated,False,RL,NYSE,,,ralph-lauren-q2-fy2027
+2026-11-05,Ralph Lauren,Q2-27,Q2 FY2027,before market,estimated,True,RL,NYSE,,,ralph-lauren-q2-fy2027
 2026-11-05,Tapestry,Q1-27,Q1 FY2027,before market,estimated,False,TPR,NYSE,,,tapestry-q1-fy2027
 2026-11-11,On Holding,Q3-26,Q3 2026,before market,estimated,False,ONON,NYSE,,,on-holding-q3-2026
 2026-11-12,Burberry,H1-26/27,H1 FY2026/27,07:00 UK,confirmed,False,BRBY,LSE,https://www.burberryplc.com/investors/financial-calendar,,burberry-h1-fy2026-27
