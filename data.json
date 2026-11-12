@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:40:22+01:00",
+ "updated": "2026-11-12T12:55:47+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -413,7 +413,7 @@
    "date": "2026-11-03",
    "time": "07:00 UK",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.abf.co.uk/investors/financial-calendar",
    "brief_url": null
   },
@@ -429,7 +429,7 @@
    "date": "2026-11-03",
    "time": "after market",
    "confidence": "estimated",
-   "reported": false,
+   "reported": true,
    "source": null,
    "brief_url": null
   },
@@ -445,7 +445,7 @@
    "date": "2026-11-03",
    "time": null,
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://corporate.zalando.com/en/investor-relations/financial-calendar",
    "brief_url": null
   },
@@ -461,7 +461,7 @@
    "date": "2026-11-04",
    "time": null,
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://pandoragroup.com/investor/financial-calendar",
    "brief_url": null
   },
@@ -493,7 +493,7 @@
    "date": "2026-11-05",
    "time": "07:00 UK",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.nextplc.co.uk/investors/financial-calendar",
    "brief_url": null
   },
@@ -541,7 +541,7 @@
    "date": "2026-11-11",
    "time": "before market",
    "confidence": "estimated",
-   "reported": false,
+   "reported": true,
    "source": null,
    "brief_url": null
   },
