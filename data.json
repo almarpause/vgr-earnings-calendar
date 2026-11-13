@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:51:05+01:00",
+ "updated": "2026-11-13T13:51:15+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -573,7 +573,7 @@
    "date": "2026-11-13",
    "time": null,
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://corp.asics.com/en/investor_relations",
    "brief_url": null
   },
