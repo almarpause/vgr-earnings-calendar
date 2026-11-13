@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:55:47+01:00",
+ "updated": "2026-11-13T13:51:05+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -557,7 +557,7 @@
    "date": "2026-11-12",
    "time": "07:00 UK",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.burberryplc.com/investors/financial-calendar",
    "brief_url": null
   },
