@@ -35,7 +35,7 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-11-11,On Holding,Q3-26,Q3 2026,before market,estimated,True,ONON,NYSE,,https://verygoodretail.ai/intelligence/archive/on-holding-q3-2026,on-holding-q3-2026
 2026-11-12,Burberry,H1-26/27,H1 FY2026/27,07:00 UK,confirmed,True,BRBY,LSE,https://www.burberryplc.com/investors/financial-calendar,,burberry-h1-fy2026-27
 2026-11-13,ASICS,Q3-26,Q3 FY2026,,confirmed,True,7936,TSE,https://corp.asics.com/en/investor_relations,,asics-q3-fy2026
-2026-11-13,Richemont,H1-27,H1 FY2027,07:00 CET,confirmed,False,CFR,SIX,https://www.richemont.com/investors/corporate-calendar/,,richemont-h1-fy2027
+2026-11-13,Richemont,H1-27,H1 FY2027,07:00 CET,confirmed,True,CFR,SIX,https://www.richemont.com/investors/corporate-calendar/,,richemont-h1-fy2027
 2026-11-17,Amer Sports,Q3-26,Q3 2026,before market,estimated,False,AS,NYSE,,,amer-sports-q3-2026
 2026-11-19,GAP,Q3-26,Q3 FY2026,after market,estimated,False,GAP,NYSE,,,gap-q3-fy2026
 2026-11-19,JD Sports Fashion,Q3-26/27,Q3 FY2026/27 trading statement,07:00 UK,confirmed,False,JD.,,https://www.jdplc.com/q2-2026-27-trading-statement/,,jd-sports-fashion-q3-fy2026-27-trading-statement

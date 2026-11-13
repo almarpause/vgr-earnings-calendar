@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:51:15+01:00",
+ "updated": "2026-11-13T13:51:22+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -589,7 +589,7 @@
    "date": "2026-11-13",
    "time": "07:00 CET",
    "confidence": "confirmed",
-   "reported": false,
+   "reported": true,
    "source": "https://www.richemont.com/investors/corporate-calendar/",
    "brief_url": null
   },
