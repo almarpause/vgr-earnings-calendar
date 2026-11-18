@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:38:39+01:00",
+ "updated": "2026-11-18T08:37:53+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -431,7 +431,7 @@
    "confidence": "estimated",
    "reported": true,
    "source": null,
-   "brief_url": null
+   "brief_url": "https://verygoodretail.ai/intelligence/archive/titan-company-q2-fy2027"
   },
   {
    "id": "zalando-q3-2026",
@@ -559,7 +559,7 @@
    "confidence": "confirmed",
    "reported": true,
    "source": "https://www.burberryplc.com/investors/financial-calendar",
-   "brief_url": null
+   "brief_url": "https://verygoodretail.ai/intelligence/archive/burberry-h1-fy2026-27"
   },
   {
    "id": "asics-q3-fy2026",
@@ -575,7 +575,7 @@
    "confidence": "confirmed",
    "reported": true,
    "source": "https://corp.asics.com/en/investor_relations",
-   "brief_url": null
+   "brief_url": "https://verygoodretail.ai/intelligence/archive/asics-q3-fy2026"
   },
   {
    "id": "richemont-h1-fy2027",
@@ -591,7 +591,7 @@
    "confidence": "confirmed",
    "reported": true,
    "source": "https://www.richemont.com/investors/corporate-calendar/",
-   "brief_url": null
+   "brief_url": "https://verygoodretail.ai/intelligence/archive/richemont-h1-fy2027"
   },
   {
    "id": "amer-sports-q3-2026",
@@ -605,7 +605,7 @@
    "date": "2026-11-17",
    "time": "before market",
    "confidence": "estimated",
-   "reported": false,
+   "reported": true,
    "source": null,
    "brief_url": null
   },
