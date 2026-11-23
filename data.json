@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:37:29+01:00",
+ "updated": "2026-11-23T08:38:19+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -735,6 +735,22 @@
    "confidence": "estimated",
    "reported": false,
    "source": null,
+   "brief_url": null
+  },
+  {
+   "id": "nike-q2-fy2027",
+   "company": "Nike",
+   "name": "NIKE",
+   "ticker": "NKE",
+   "exchange": "NYSE",
+   "period": "Q2 FY2027",
+   "label": "Q2-27",
+   "detail": "",
+   "date": "2026-12-17",
+   "time": "earnings call 14:00 PST",
+   "confidence": "confirmed",
+   "reported": false,
+   "source": "https://investors.nike.com",
    "brief_url": null
   },
   {
