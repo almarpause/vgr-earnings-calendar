@@ -38,15 +38,52 @@ date,company,label,period,time,confidence,reported,ticker,exchange,source,brief_
 2026-11-13,Richemont,H1-27,H1 FY2027,07:00 CET,confirmed,True,CFR,SIX,https://www.richemont.com/investors/corporate-calendar/,https://verygoodretail.ai/intelligence/archive/richemont-h1-fy2027,richemont-h1-fy2027
 2026-11-17,Amer Sports,Q3-26,Q3 2026,before market,estimated,True,AS,NYSE,,https://verygoodretail.ai/intelligence/archive/amer-sports-q3-2026,amer-sports-q3-2026
 2026-11-19,GAP,Q3-26,Q3 FY2026,after market,estimated,True,GAP,NYSE,,https://verygoodretail.ai/intelligence/archive/gap-q3-fy2026,gap-q3-fy2026
-2026-11-19,JD Sports Fashion,Q3-26/27,Q3 FY2026/27 trading statement,07:00 UK,confirmed,True,JD.,,https://www.jdplc.com/q2-2026-27-trading-statement/,,jd-sports-fashion-q3-fy2026-27-trading-statement
-2026-11-24,Chow Tai Fook,H1-27,H1 FY2027,midday HK,estimated,True,1929,HKEX,,,chow-tai-fook-h1-fy2027
-2026-11-24,Urban Outfitters,Q3-27,Q3 FY2027,after market,estimated,True,URBN,NASDAQ,,,urban-outfitters-q3-fy2027
-2026-12-02,Inditex,Q3-26,Q3 FY2026,before market,estimated,False,ITX,,,,inditex-q3-fy2026
-2026-12-03,LPP SA,Q3-26,Q3 2026,,confirmed,False,LPP,,https://www.lpp.com/en/reports/cr-01-2026-dates-of-publication-of-financial-reports-in-2026/,,lpp-sa-q3-2026
-2026-12-10,Lululemon,Q3-26,Q3 FY2026,after market,estimated,False,LULU,NASDAQ,,,lululemon-q3-fy2026
-2026-12-17,Birkenstock,FY26,FY2026,before market,estimated,False,BIRK,NYSE,,,birkenstock-fy2026
-2026-12-17,Nike,Q2-27,Q2 FY2027,earnings call 14:00 PST,confirmed,False,NKE,NYSE,https://investors.nike.com,,nike-q2-fy2027
-2027-01-14,Richemont,Q3-27,Q3 FY2027,07:00 CET,confirmed,False,CFR,SIX,https://www.richemont.com/investors/corporate-calendar/,,richemont-q3-fy2027
+2026-11-19,JD Sports Fashion,Q3-26/27,Q3 FY2026/27 trading statement,07:00 UK,confirmed,True,JD.,,https://www.jdplc.com/q2-2026-27-trading-statement/,https://verygoodretail.ai/intelligence/archive/jd-sports-fashion-q3-fy2026-27-trading-statement,jd-sports-fashion-q3-fy2026-27-trading-statement
+2026-11-24,Chow Tai Fook,H1-27,H1 FY2027,midday HK,estimated,True,1929,HKEX,,https://verygoodretail.ai/intelligence/archive/chow-tai-fook-h1-fy2027,chow-tai-fook-h1-fy2027
+2026-11-24,Urban Outfitters,Q3-27,Q3 FY2027,after market,estimated,True,URBN,NASDAQ,,https://verygoodretail.ai/intelligence/archive/urban-outfitters-q3-fy2027,urban-outfitters-q3-fy2027
+2026-12-02,Inditex,Q3-26,Q3 FY2026,before market,confirmed,False,ITX,,https://www.inditex.com/itxcomweb/en/investors/financial-calendar,,inditex-q3-fy2026
+2026-12-03,LPP SA,Q3-26,Q3 2026,,confirmed,False,LPP,,https://www.bankier.pl/wiadomosc/LPP-Terminy-publikacji-raportow-okresowych-w-2026-roku-9068627.html,,lpp-sa-q3-2026
+2026-12-08,Lululemon,Q3-26,Q3 FY2026,,confirmed,False,LULU,NASDAQ,https://corporate.lululemon.com/investors,,lululemon-q3-fy2026
+2026-12-10,Birkenstock,FY26,FY2026,before market,confirmed,False,BIRK,NYSE,https://www.sec.gov/Archives/edgar/data/0001977102/000119312526445377/birk-ex99_1.htm,,birkenstock-fy2026
+2026-12-17,Nike,Q2-27,Q2 FY2027,after market,confirmed,False,NKE,NYSE,https://investors.nike.com/news-events/press-releases/detail/580/nike-inc-announces-second-quarter-fiscal-2027-earnings-and-conference-call,,nike-q2-fy2027
+2027-01-06,Next plc,Q4-26/27,Q4 FY2026/27 trading statement,before market,confirmed,False,NXT,,https://www.nextplc.co.uk/investors/financial-calendar,,next-plc-q4-fy2026-27-trading-statement
+2027-01-07,Aritzia,Q3-27,Q3 FY2027,,estimated,False,ATZ,,,,aritzia-q3-fy2027
+2027-01-14,Fast Retailing,Q1-27,Q1 FY2027,,confirmed,False,9983,,https://www.fastretailing.com/eng/ir/calendar/,,fast-retailing-q1-fy2027
+2027-01-14,Richemont,Q3-27,Q3 FY2027,before market,confirmed,False,CFR,SIX,https://www.richemont.com/investors/corporate-calendar/,,richemont-q3-fy2027
+2027-01-20,Burberry,Q3-26/27,Q3 FY2026/27 trading update,before market,estimated,False,BRBY,,,,burberry-q3-fy2026-27-trading-update
+2027-01-20,JD Sports Fashion,Q4-26/27,Q4 FY2026/27 trading statement,before market,estimated,False,JD.,,,,jd-sports-fashion-q4-fy2026-27-trading-statement
+2027-01-26,LVMH,FY26,FY2026,,estimated,False,MC,,,,lvmh-fy2026
+2027-01-27,Levi Strauss,Q4-26,Q4 FY2026,after market,estimated,False,LEVI,,,,levi-strauss-q4-fy2026
+2027-01-27,VF Corp,Q3-27,Q3 FY2027,before market,estimated,False,VFC,,,,vf-corp-q3-fy2027
+2027-01-28,Deckers,Q3-27,Q3 FY2027,after market,estimated,False,DECK,,,,deckers-q3-fy2027
 2027-01-28,H&M,FY26,FY2026,,confirmed,False,HM-B,,https://hmgroup.com/investors/financial-calendar/,,h-m-fy2026
 2027-01-28,Swatch Group,FY26,FY2026,,estimated,False,UHR,SIX,,,swatch-group-fy2026
-2027-02-11,Pandora,Q4-26,Q4 2026,,confirmed,False,PNDORA,Nasdaq Copenhagen,https://pandoragroup.com/investor/financial-calendar,,pandora-q4-2026
+2027-02-04,Ralph Lauren,Q3-27,Q3 FY2027,before market,estimated,False,RL,,,,ralph-lauren-q3-fy2027
+2027-02-04,Tapestry,Q2-27,Q2 FY2027,before market,estimated,False,TPR,,,,tapestry-q2-fy2027
+2027-02-09,Kering,FY26,FY2026,before market,estimated,False,KER,,,,kering-fy2026
+2027-02-09,Titan Company,Q3-27,Q3 FY2027,,estimated,False,TITAN,,,,titan-company-q3-fy2027
+2027-02-10,EssilorLuxottica,FY26,FY2026,,estimated,False,EL,,,,essilorluxottica-fy2026
+2027-02-11,Crocs,Q4-26,Q4 2026,before market,estimated,False,CROX,,,,crocs-q4-2026
+2027-02-11,Pandora,Q4-26,Q4 2026,,confirmed,False,PNDORA,Nasdaq Copenhagen,https://www.pandoragroup.com/investor/events-and-presentations/financial-calendar,,pandora-q4-2026
+2027-02-12,ASICS,FY26,FY2026,,estimated,False,7936,,,,asics-fy2026
+2027-02-12,Hermès,FY26,FY2026,before market,confirmed,False,RMS,,https://finance.hermes.com/en/,,hermes-fy2026
+2027-02-18,Moncler,FY26,FY2026,,estimated,False,MONC,,,,moncler-fy2026
+2027-02-23,Amer Sports,Q4-26,Q4 2026,before market,estimated,False,AS,,,,amer-sports-q4-2026
+2027-02-24,Urban Outfitters,Q4-27,Q4 FY2027,after market,estimated,False,URBN,,,,urban-outfitters-q4-fy2027
+2027-02-25,Gildan Activewear,Q4-26,Q4 2026,before market,estimated,False,GIL,,,,gildan-activewear-q4-2026
+2027-03-02,On Holding,Q4-26,Q4 2026,before market,estimated,False,ONON,,,,on-holding-q4-2026
+2027-03-03,Adidas,FY26,FY2026,,confirmed,False,ADS,,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-fy2026
+2027-03-04,GAP,Q4-26,Q4 FY2026,after market,estimated,False,GAP,,,,gap-q4-fy2026
+2027-03-04,Prada Group,FY26,FY2026,,estimated,False,1913,,,,prada-group-fy2026
+2027-03-11,Zalando,Q4-26,Q4 2026,,estimated,False,ZAL,,,,zalando-q4-2026
+2027-03-24,Anta Sports,FY26,FY2026,,estimated,False,2020,,,,anta-sports-fy2026
+2027-03-24,H&M,Q1-27,Q1 2027 three-month report,,confirmed,False,HM-B,,https://hmgroup.com/investors/financial-calendar/,,h-m-q1-2027-three-month-report
+2027-04-08,Fast Retailing,H1-27,H1 FY2027,,confirmed,False,9983,,https://www.fastretailing.com/eng/ir/calendar/,,fast-retailing-h1-fy2027
+2027-04-20,ABF / Primark,H1-27,H1 FY2027 interim results,before market,estimated,False,ABF,,,,abf-primark-h1-fy2027-interim-results
+2027-04-22,Hermès,Q1-27,Q1 2027 revenue,before market,confirmed,False,RMS,,https://finance.hermes.com/en/,,hermes-q1-2027-revenue
+2027-04-27,Adidas,Q1-27,Q1 2027,,confirmed,False,ADS,,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-q1-2027
+2027-06-10,Chow Tai Fook,FY27,FY2027,,estimated,False,1929,,,,chow-tai-fook-fy2027
+2027-07-08,Fast Retailing,Q3-27,Q3 FY2027,,confirmed,False,9983,,https://www.fastretailing.com/eng/ir/calendar/,,fast-retailing-q3-fy2027
+2027-07-29,Adidas,H1-27,H1 2027,,confirmed,False,ADS,,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-h1-2027
+2027-10-14,Fast Retailing,FY27,FY2027,,confirmed,False,9983,,https://www.fastretailing.com/eng/ir/calendar/,,fast-retailing-fy2027
+2027-10-28,Adidas,9M-27,9M 2027,,confirmed,False,ADS,,https://www.adidas-group.com/en/investors/financial-calendar/,,adidas-9m-2027
