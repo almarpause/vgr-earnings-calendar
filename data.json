@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:17:14+01:00",
+ "updated": "2026-11-26T15:40:38+01:00",
  "events": [
   {
    "id": "inditex-h1-fy2026",
@@ -672,6 +672,22 @@
    "reported": true,
    "source": null,
    "brief_url": "https://verygoodretail.ai/intelligence/archive/urban-outfitters-q3-fy2027"
+  },
+  {
+   "id": "shein-q3-2026",
+   "company": "Shein",
+   "name": "SHEIN",
+   "ticker": "0625",
+   "exchange": null,
+   "period": "Q3 2026",
+   "label": "Q3-26",
+   "detail": "",
+   "date": "2026-11-25",
+   "time": "17:57 HKT",
+   "confidence": "confirmed",
+   "reported": true,
+   "source": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1113/2026111300293.pdf",
+   "brief_url": null
   },
   {
    "id": "inditex-q3-fy2026",
